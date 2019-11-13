@@ -1,14 +1,3 @@
-# bamboolib - template for creating your own binder notebook
+# Exploration of the adults income data set with bamboolib
 
-
-## How to use this?
-
-You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
-
-
-
-### How to use it on other (open) data?
-
-If you want to use bamboolib on other open data, simply follow [our quick guide](https://github.com/8080labs/bamboolib_binder_template/blob/master/create_your_own_binder.md)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FFlorianWetschoreck%2Fadult_income_dataset/master?filepath=adults_exploration.ipynb)
